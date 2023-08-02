@@ -1,5 +1,7 @@
-TY  - Computer Program
-AU  - pb-Perfect, 
-TI  - title = PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data
-      Analysis
-ER  - 
+TY  - GEN
+AU  - Allan, V.
+PY  - 2023
+TI  - PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis
+SP  - PB - Perfect
+UR  - https://allanbiotools.shinyapps.io/pbperfect/
+ER  -
