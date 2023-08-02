@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <records>
+    <record>
+      <ref-type name="generic"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Allan, Victor
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+      </dates>
+      <periodical><full-title>https:&#x2F;&#x2F;allanbiotools.shinyapps.io&#x2F;pbperfect&#x2F;</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;allanbiotools.shinyapps.io&#x2F;pbperfect&#x2F;</url>
+        </related-urls>
+      </urls>
+    </record>
+  </records>
+</xml>
