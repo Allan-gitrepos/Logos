@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ggplot Builder</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 0;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+        }
+        p {
+            text-align: justify;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .features div {
+            width: calc(50% - 20px);
+            margin-bottom: 20px;
+        }
+        .button {
+            display: block;
+            margin: 40px auto;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ggplot Builder</h1>
+        <img src="https://raw.githubusercontent.com/Allan-gitrepos/Logos/main/esquisse.gif" alt="Esquisse Logo">
+   
+        <p>This app is a ggplot2 builder that allows you to interactively explore your data by visualizing it with the ggplot2 package. You can draw bar plots, curves, scatter plots, histograms, boxplots, and sf objects, then export the graph or retrieve the code to reproduce the graph. This is a beautiful work done by <b>dreamRs</b>. The PB - Perfect version for ggplot builder is under development.</p>
+        <h2>Features</h2>
+        <div class="features">
+            <div><img src="https://raw.githubusercontent.com/Allan-gitrepos/Logos/main/esquisse.png" alt="Esquisse Screenshot"></div>
+            <div>
+                <ul>
+                    <li>Import your data (CSV, RDS, ...) and visualize them!</li>
+                    <li>Choose from a variety of plot options such as line, area, bar, histogram, point, boxplot, violin, density, tile and sf.</li>
+                    <li>Customize your plot with options such as smooth line, size, facet scales, numbers of bins, scale and axis transform.</li>
+                    <li>Choose from a variety of color palettes including ggplot2, viridis, magma, inferno, plasma and cividis.</li>
+                    <li>Export your plot as a .png or .pptx file.</li>
+                </ul>
+            </div>
+
+     </div>
+        <a class="button" href="https://shinyapps.dreamrs.fr/esquisse/" target="_blank">Click here to go to the esquisse Shiny app!</a>
+    </div>
+
+</body>
+</html>
